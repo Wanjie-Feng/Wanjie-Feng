@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @WAN-f12
-- 👀 I’m interested in Something magical！！
+- 👀 I’m interested in something magical！！
 - 🌱 I’m currently learning Bioinformatics, ...
 - 💞️ I’m looking to collaborate on friends with the same interests
 - 📫 
