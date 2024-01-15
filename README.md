@@ -2,7 +2,7 @@
 
 <br />
 
-I am a boy engaged in data analysis
+I am a boy who is addicted to data analysis and software development!
 
 **About me**
 
