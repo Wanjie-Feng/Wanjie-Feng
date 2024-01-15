@@ -1,13 +1,19 @@
-- 👋 Hi, I’m @WAN-f12
-- 👀 I’m interested in something magical！！
-- 🌱 I’m currently learning Bioinformatics, ...
-- 💞️ I’m looking to collaborate on friends with the same interests
-- 📫 
+<p align="center">Hello, I'm wanjie. I do open source!</p>
 
-<!---
-WAN-f12/WAN-f12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<br />
+
+I am a boy engaged in data analysis
+
+**About me**
+
+- 💼 Doctoral candidate
+
+- 📈 Built github-readme-stats
+- ❤️ I love programming, embrace open source, and love new and meaningful technology
+- 💬 You can contact me at 2315033020@qq.com
+ 
 
 ![WAN-f12's GitHub stats](https://github-readme-stats.vercel.app/api?username=WAN-f12)
-![WAN-f12's GitHub stats](https://github-readme-stats.vercel.app/api?username=WAN-f12&show_icons=true&theme=radical)
+![WAN-f12's GitHub stats](https://github-readme-stats.vercel.app/api?username=WAN-f12&show_icons=true&theme=cobalt)
+
+
