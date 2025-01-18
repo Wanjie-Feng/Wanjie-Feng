@@ -15,7 +15,5 @@ I am a boy who is addicted to data analysis and software development!
  <br />
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Wanjie-Feng&theme=dark&layout=compact)
 <br />
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Wanjie-Feng)](https://git.io/streak-stats)
-<br />
 [![trophy](https://github-profile-trophy.vercel.app/?username=Wanjie-Feng&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <br />
