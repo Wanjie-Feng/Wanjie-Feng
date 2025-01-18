@@ -12,6 +12,8 @@ I am a boy who is addicted to data analysis and software development!
 - ✉️ You can contact me at 2315033020@qq.com
 
  ![Github Stats](https://github-readme-stats.vercel.app/api?username=Wanjie-Feng&show_icons=true&theme=dark&count_private=true)
+ <br />
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Wanjie-Feng&theme=dark&layout=compact)
+<br />
 [![GitHub Streak](https://streak-stats.demolab.com?user=Wanjie-Feng)](https://git.io/streak-stats)
 
