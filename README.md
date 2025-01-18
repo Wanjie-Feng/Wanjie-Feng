@@ -11,9 +11,11 @@ I am a boy who is addicted to data analysis and software development!
 - ❤️ I love programming, embrace open source, and love new and meaningful technology
 - ✉️ You can contact me at 2315033020@qq.com
 
- ![Github Stats](https://github-readme-stats.vercel.app/api?username=Wanjie-Feng&show_icons=true&theme=dark&count_private=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Wanjie-Feng&show_icons=true&theme=dark&count_private=true)
  <br />
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Wanjie-Feng&theme=dark&layout=compact)
 <br />
-[![GitHub Streak](https://streak-stats.demolab.com?user=Wanjie-Feng)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Wanjie-Feng)](https://git.io/streak-stats)
+<br />
+[![trophy](https://github-profile-trophy.vercel.app/?username=Wanjie-Feng&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<br />
