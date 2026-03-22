@@ -2,7 +2,7 @@
 
 <br />
 
-I am a boy who is addicted to data analysis and software development!
+I am a boy who is addicted to data analysis and software development! I do this to serve life science research.
 
 **About me**
 
